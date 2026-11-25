@@ -16,7 +16,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/leviouwendijk/Terminal.git",
+            url: "https://github.com/swift-lco/Terminal.git",
             branch: "master"
         ),
     ],
